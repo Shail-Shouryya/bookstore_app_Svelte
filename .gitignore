@@ -1,6 +1,6 @@
 .DS_Store
 node_modules
-public/bundle.*
+
 
 # Created by https://www.gitignore.io/api/macos,windows
 # Edit at https://www.gitignore.io/?templates=macos,windows
